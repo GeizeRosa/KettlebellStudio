@@ -1,0 +1,16 @@
+footer {
+    color:gray;
+    font-size:0.8rem;
+    padding: 0 15px;
+    text-align: center;
+    }
+
+    main {
+        background-image: url('taco-fleur-unsplash.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        width: 100%;
+        height: auto;
+        opacity: 0.5;
+      }
