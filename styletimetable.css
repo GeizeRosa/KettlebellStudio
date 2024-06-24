@@ -4,3 +4,24 @@ footer {
     padding: 0 15px;
     text-align: center;
     }
+    *{
+        margin:0;
+        padding:0;
+        box-sizing: border-box;
+
+    }
+    body,html{
+        height: 100%;
+        
+    }
+    .hero-container{
+        position:relative;
+        text-align: center;
+        color:white;
+    }
+    .hero-text{
+        position: absolute;
+        top:50%;
+        transform:translate(-50%, -50%);
+        text-show: 2px 2px 8px rgba(0,0,0,0.7);
+    }
