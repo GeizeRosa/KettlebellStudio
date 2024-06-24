@@ -1,4 +1,7 @@
-.carousel h2 {text-align:center}
+body{font-family: "urbanist",sans-serif;}
+.carousel h2 {text-align:center
+}
+.carousel{padding:5px;}
 .main-information > h2{text-align: center;}
 .main-information> h3{text-align: center;}
 
